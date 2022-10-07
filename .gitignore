@@ -4,7 +4,7 @@ usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT]
                 [--site SITE_NAME] [--proxy PROXY_URL] [--json JSON_FILE]
                 [--timeout TIMEOUT] [--print-all] [--print-found] [--no-color]
                 [--browse] [--local]
-                USERNAMES [USERNAMES ...]
+                USERNAMES [lil_jolley_dawg_fan ...]
 
 Sherlock: Find Usernames Across Social Networks (Version 0.14.2)
 
@@ -42,4 +42,5 @@ optional arguments:
   --no-color            Don't color terminal output
   --browse, -b          Browse to all results on default browser.
   --local, -l           Force the use of the local data.json file.
+  python3 sherlock lil_jolley_dawg_fans
   
